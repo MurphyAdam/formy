@@ -1,1 +1,1 @@
-web: gunicorn formey_server.wsgi --log-file -
+web: gunicorn --chdir server formey_server.wsgi --log-file -
