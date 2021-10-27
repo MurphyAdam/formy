@@ -18,6 +18,8 @@ This project uses the following stack:
 
 ## Demo
 
+Demo deployed on a pipeline on Heroku connected to our GitHub (Automatic deploys)
+
 https://formy-search.herokuapp.com/
 
 ## Get started
