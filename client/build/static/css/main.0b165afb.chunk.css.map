@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/App.module.scss"],"names":[],"mappings":"AAAA,iBACE,YAAA,CAGF,sBACE,YAAA","file":"main.0b165afb.chunk.css","sourcesContent":[".root {\n  padding: 2rem;\n}\n\n.titleTypo {\n  padding: 1rem; \n}"]}
