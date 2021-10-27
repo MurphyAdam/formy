@@ -1,0 +1,1 @@
+web: gunicorn formey_server.wsgi --log-file -
